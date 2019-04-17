@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  padding: 25px 0;
+  max-width: 1000px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.searchDiv {
+  text-align: center;
+}
+
+.searchDiv input {
+  height: 25px;
+  border-radius: 5px;
+  border: 2px solid gray;
+}
